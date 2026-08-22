@@ -263,3 +263,17 @@ openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 openx.com, 565175463, RESELLER, 6a698e2ec38604c6
 targetbetter.com, 82228, RESELLER
 taurusx.com, 70097, RESELLER
+adorphic.com, 4054, reseller
+bold-win.com, 1162, reseller, 71746737d0bab951
+triplelift.com, 14699, reseller, 6c33edb13117fd86
+lijit.com, 584539, reseller, fafdf38b16bf6b2b
+bluexad.ai, 2064614586140594176, reseller
+bidplay.ai, 2607009, reseller
+taipeidigital.com, 01012311678, reseller
+metup.it, ajxf6r118a9m6catvk, reseller
+themediagrid.com, kh6mjt, reseller, 35d5010d7789b49d
+uis.mobfox.com, 2568, reseller, 5529a3d1f59865be
+improvedigital.com, 2417, reseller
+wovenaudience.com, 1008, reseller
+rubiconproject.com, 28673, reseller, 0bfd66d529a55807
+triplelift.com, 14858, reseller, 6c33edb13117fd86
